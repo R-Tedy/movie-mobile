@@ -11,7 +11,7 @@ const saved = () => {
               className='size-10'
               tintColor='#ffffff'
             />
-            <Text className='text-gray-500' text-base>Save</Text>
+            <Text className='text-gray-500' text-base>Saved</Text>
           </View>
         </View>
   )
